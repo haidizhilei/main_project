@@ -1,0 +1,16 @@
+PODS:
+  - router_project (0.0.1)
+
+DEPENDENCIES:
+  - router_project
+
+SPEC REPOS:
+  https://github.com/haidizhilei/praviteRepo.git:
+    - router_project
+
+SPEC CHECKSUMS:
+  router_project: 79627a5a411dfadd2ad36e25434e1c17236c2b0e
+
+PODFILE CHECKSUM: d0983846eb1bb0060d0b8b3b9806a4a29aae20fe
+
+COCOAPODS: 1.8.1
